@@ -4,9 +4,11 @@ Sharing my insight into machine learning.
 
 # Courses
 
-## Theoretical learning
+
+## Theoretical
 
 Hung-yi Lee's [machine leaning course](https://www.youtube.com/watch?v=Y87Ct23H3Kw&list=PLJV_el3uVTsNxV_IGauQZBHjBKZ26JHjd) on the youtube channel is really good for beginners.
+
 
 ## Coding
 
